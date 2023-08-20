@@ -10,9 +10,9 @@
 				{
 					"includeDirectories" : 
 					[
-						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
 						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/include",
-						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
 						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/x86_64-w64-mingw32/include"
 					],
 					"linkDirectories" : [],
@@ -20,7 +20,7 @@
 					"linkLibraries" : []
 				},
 				"path" : "C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/bin/gcc.exe",
-				"version" : "11.2.0"
+				"version" : "13.1.0"
 			},
 			"language" : "C",
 			"sourceFileExtensions" : 
@@ -37,12 +37,12 @@
 				{
 					"includeDirectories" : 
 					[
-						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++",
-						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32",
-						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward",
-						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
+						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
+						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
+						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
 						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/include",
-						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
 						"C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/x86_64-w64-mingw32/include"
 					],
 					"linkDirectories" : [],
@@ -50,7 +50,7 @@
 					"linkLibraries" : []
 				},
 				"path" : "C:/Program Files/JetBrains/CLion 2023.1.1/bin/mingw/bin/g++.exe",
-				"version" : "11.2.0"
+				"version" : "13.1.0"
 			},
 			"language" : "CXX",
 			"sourceFileExtensions" : 
